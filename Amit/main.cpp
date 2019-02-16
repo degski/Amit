@@ -208,3 +208,32 @@ int main ( ) {
 
     return EXIT_SUCCESS;
 }
+
+
+/*
+
+cb
+
+  0  0  0  1  2  0  0
+  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0
+  3  0  0  4  0  0  5
+  0  0  0  0  0  8  0
+  0  0  0  0  0  0  0
+  0  0  0 16  0  0  0
+
+zb
+
+  0  0  0  1  2  0  0
+  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0
+  3  0  0  4  0  0  5
+  0  0  0  0  0  8  0
+  0  0  0  0  0  0  0
+  0  0  0 16  0  0  0
+
+
+Y:\REPOS\Amit\x64\Debug\Amit.exe (process 10636) exited with code 0.
+Press any key to close this window . . .
+
+*/
